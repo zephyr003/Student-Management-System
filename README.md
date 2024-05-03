@@ -24,3 +24,13 @@ This is a student management system developed using Python and the tkinter libra
 3. Install the required dependencies using the following command:
    ```bash
    pip install tkcalendar ttkthemes
+   ```
+4. Run the application using the following command:
+   ```bash
+   python main.py
+   ```
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+This project is open source and available under the MIT License.
